@@ -135,6 +135,10 @@ namespace SaleManagementWinform
         private void button1_Click_1(object sender, EventArgs e)
         {
 
+
+            // Cap nhat code moi nhat 
+            // update code abcbdidlisduasidlkasdlkasjd
+
             string MaSP = txb_code.Text.ToString();
             string TenSP = txb_name.Text.ToString();
             int phone = int.Parse(txb_phone.Text.ToString());
