@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\",
+  "WorkspaceRootPath": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|d:\\code database\\code-database-se07205-main\\salemanagementwinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|d:\\code database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\salemanagementwinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21E338A-65BA-4893-A9AF-9278BCA4B6BC}|SaleManagementWinform\\SaleManagementWinform.csproj|solutionrelative:salemanagementwinform\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MenuForm.cs",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\MenuForm.cs",
-              "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
+              "ToolTip": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
               "RelativeToolTip": "SaleManagementWinform\\MenuForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,10 +76,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MenuForm.cs [Design]",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\MenuForm.cs",
               "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs [Design]",
-              "RelativeToolTip": "SaleManagementWinform\\MenuForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\MenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T19:08:02.598Z"
             },
@@ -87,9 +87,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.cs",
-              "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
+              "ToolTip": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
               "RelativeToolTip": "SaleManagementWinform\\Form1.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,10 +99,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\Form1.cs",
               "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs [Design]",
-              "RelativeToolTip": "SaleManagementWinform\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T19:03:35.653Z"
             },
@@ -110,10 +110,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AddProductForm.cs [Design]",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddProductForm.cs",
               "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs [Design]",
-              "RelativeToolTip": "SaleManagementWinform\\AddProductForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:24:30.44Z"
             },
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AddProductForm.cs",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddProductForm.cs",
-              "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
+              "ToolTip": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddProductForm.cs",
               "RelativeToolTip": "SaleManagementWinform\\AddProductForm.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAACwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,11 +133,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddCustomer.cs",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddCustomer.cs",
-              "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
+              "ToolTip": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
               "RelativeToolTip": "SaleManagementWinform\\AddCustomer.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAAwIsAAAAMAAAA",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAwIYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:25:43.686Z",
               "EditorCaption": ""
@@ -146,10 +146,10 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AddCustomer.cs [Design]",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\AddCustomer.cs",
               "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs [Design]",
-              "RelativeToolTip": "SaleManagementWinform\\AddCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\AddCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:24:18.78Z"
             },
@@ -157,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CustomerForm.cs",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\CustomerForm.cs",
-              "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
+              "ToolTip": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
               "RelativeToolTip": "SaleManagementWinform\\CustomerForm.cs",
               "ViewState": "AQIAAKAAAAAAAAAAAAAjwM0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,10 +169,10 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CustomerForm.cs [Design]",
-              "DocumentMoniker": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
+              "DocumentMoniker": "D:\\Code Database\\github database\\database-se07205-hoangtrunghieu\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs",
               "RelativeDocumentMoniker": "SaleManagementWinform\\CustomerForm.cs",
               "ToolTip": "D:\\Code Database\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs [Design]",
-              "RelativeToolTip": "SaleManagementWinform\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\code-database-se07205-main\\SaleManagementWinform\\SaleManagementWinform\\CustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T02:29:00.762Z"
             }
