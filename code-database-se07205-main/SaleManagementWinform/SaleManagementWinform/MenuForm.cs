@@ -45,5 +45,20 @@ namespace SaleManagementWinform
             customerForm.Show();
             
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            EmployeeForm empForm = new EmployeeForm();
+            empForm.Show();
+            this.Hide();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            PurchaseHistory purchaseHistory = new PurchaseHistory();
+            purchaseHistory.Show();
+            this.Hide();
+        }
     }
 }

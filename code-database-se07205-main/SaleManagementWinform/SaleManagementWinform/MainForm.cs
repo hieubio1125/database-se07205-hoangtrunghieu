@@ -102,7 +102,7 @@ namespace SaleManagementWinform
         private void LoadData()
         {
             // SQL query to fetch data
-            string query = "SELECT * FROM Product";
+            string query = "SELECT * FROM Product where active = 1";
 
             using (SqlConnection connection = new SqlConnection(Connection.SQLConnection))
             {
@@ -150,6 +150,7 @@ namespace SaleManagementWinform
 
             // Optional: Adjust column widths
             dgv_product.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+           // public UpdateCustomer(string code, string name, string phoneNumber, string address, string email)
 
             // Handle button clicks
             dgv_product.CellClick += dataGridView1_CellClick;
@@ -246,10 +247,15 @@ namespace SaleManagementWinform
         private void button4_Click(object sender, EventArgs e)
         {
             MenuForm menu = new MenuForm();
-            menu.Show ();
+            menu.Show(); // Hiển thị màn hình Menu lên đầu  
+            // Ẩn giao diện của màn hình hiện tại 
             this.Hide();
 
         }
 
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

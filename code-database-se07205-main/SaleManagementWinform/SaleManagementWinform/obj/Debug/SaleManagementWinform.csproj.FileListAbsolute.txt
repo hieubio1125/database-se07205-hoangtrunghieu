@@ -29,3 +29,24 @@ D:\Code Database\code-database-se07205-main\SaleManagementWinform\SaleManagement
 D:\Code Database\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.pdb
 D:\Code Database\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.pdb
 D:\Code Database\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddCustomer.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe.config
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.exe
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\bin\Debug\SaleManagementWinform.pdb
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.AssemblyReference.cache
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddCustomer.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddProductForm.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.CustomerForm.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Form1.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MainForm.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.MenuForm.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.Properties.Resources.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateProduct.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.GenerateResource.cache
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.csproj.CoreCompileInputs.cache
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.exe
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.pdb
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.UpdateCustomer.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.PurchaseHistory.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddPurchaseHistory.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.EmployeeForm.resources
+D:\Code Database\github database\database-se07205-hoangtrunghieu\code-database-se07205-main\SaleManagementWinform\SaleManagementWinform\obj\Debug\SaleManagementWinform.AddEmployee.resources

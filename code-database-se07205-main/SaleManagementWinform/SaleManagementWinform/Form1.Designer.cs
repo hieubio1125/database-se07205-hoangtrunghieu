@@ -40,16 +40,17 @@
             // txb_username
             // 
             this.txb_username.Location = new System.Drawing.Point(93, 38);
-            this.txb_username.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txb_username.Margin = new System.Windows.Forms.Padding(2);
             this.txb_username.Multiline = true;
             this.txb_username.Name = "txb_username";
             this.txb_username.Size = new System.Drawing.Size(200, 39);
             this.txb_username.TabIndex = 0;
+            this.txb_username.TextChanged += new System.EventHandler(this.txb_username_TextChanged);
             // 
             // txb_password
             // 
             this.txb_password.Location = new System.Drawing.Point(93, 110);
-            this.txb_password.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txb_password.Margin = new System.Windows.Forms.Padding(2);
             this.txb_password.Multiline = true;
             this.txb_password.Name = "txb_password";
             this.txb_password.Size = new System.Drawing.Size(200, 42);
@@ -80,7 +81,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(93, 189);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(199, 37);
             this.button1.TabIndex = 4;
@@ -109,7 +110,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txb_password);
             this.Controls.Add(this.txb_username);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

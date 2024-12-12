@@ -50,13 +50,12 @@ namespace SaleManagementWinform
             }
 
             // Chuỗi kết nối tới cơ sở dữ liệu
-            string connectionString = "Data Source=HIU-CHUNN;Initial Catalog=SALE_MANGEMENT;Integrated Security=True";
 
             // Câu lệnh SQL để chèn dữ liệu
-            string query = "INSERT INTO YourTableName (MaSP, TenKhachHang, Phone, Address) VALUES (@MaSP, @TenKhachHang, @Phone, @Address)";
+            string query = "INSERT INTO Customer (MaSP, TenKhachHang, Phone, Address) VALUES (@MaSP, @TenKhachHang, @Phone, @Address)";
 
             // Kết nối cơ sở dữ liệu và thực thi lệnh
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlConnection connection = new SqlConnection(Connection.SQLConnection))
             {
                 try
                 {
@@ -90,12 +89,12 @@ namespace SaleManagementWinform
 
         }
 
-        private void InsertData(string code, string name, int phone, int address)
+        private void InsertData(string code, string name, string phone, string address)
         {
             // Connection string to your database
 
             // SQL query to insert data
-            string query = "INSERT INTO Product (Code, Name, phone, address) VALUES (@Code, @Name, @phone, @address)";
+            string query = "INSERT INTO Customer (code, name, phoneNumber, address, active) VALUES (@code, @name, @phoneNumber, @address, 1)";
 
             using (SqlConnection connection = new SqlConnection(Connection.SQLConnection))
             {
@@ -108,10 +107,10 @@ namespace SaleManagementWinform
                     using (SqlCommand command = new SqlCommand(query, connection))
                     {
                         // Add parameters to prevent SQL injection
-                        command.Parameters.AddWithValue("@Name", name);
+                        command.Parameters.AddWithValue("@name", name);
 
-                        command.Parameters.AddWithValue("@Code", code);
-                        command.Parameters.AddWithValue("@phone", phone);
+                        command.Parameters.AddWithValue("@code", code);
+                        command.Parameters.AddWithValue("@phoneNumber", phone);
                         command.Parameters.AddWithValue("@address", address);
 
 
@@ -137,14 +136,25 @@ namespace SaleManagementWinform
 
 
             // Cap nhat code moi nhat 
-            // update code abcbdidlisduasidlkasdlkasjd
+            // update code 
 
             string MaSP = txb_code.Text.ToString();
             string TenSP = txb_name.Text.ToString();
-            int phone = int.Parse(txb_phone.Text.ToString());
-            int address = int.Parse(txb_address.Text.ToString());
+            string phone = (txb_phone.Text.ToString());
+            string  address =(txb_address.Text.ToString());
 
             InsertData(MaSP, TenSP, phone, address);
+        }
+
+        private void txb_code_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            
         }
     }  
 }

@@ -31,7 +31,8 @@ namespace SaleManagementWinform
 
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             this.LoadData();
-           
+            dataGridView1.CellClick += dataGridView1_CellClick;
+
 
         }
 
@@ -130,33 +131,7 @@ namespace SaleManagementWinform
 
  
 
-        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            // Check if the clicked row is valid
-            if (e.RowIndex >= 0)
-            {
-                // Get the selected row
-                DataGridViewRow selectedRow = dgv_customer.Rows[e.RowIndex];
-
-                // Retrieve data from each cell in the selected row
-                var code = selectedRow.Cells["Code"].Value.ToString();
-                var name = selectedRow.Cells["Name"].Value.ToString();
-                var price = int.Parse(selectedRow.Cells["Price"].Value.ToString());
-                var quantity = int.Parse(selectedRow.Cells["Quantity"].Value.ToString());
-
-                // Display data in textboxes or labels, or use it as needed
-                /*  txtID.Text = id.ToString();
-                  txtName.Text = name;
-                  txtAge.Text = age.ToString();*/
-
-                // MessageBox.Show($"Code  : {code}, Name: {name}, Price: {price},  Quantity: {quantity}");
-
-
-                UpdateProduct updateProduct = new UpdateProduct(code, name, price, quantity);
-                updateProduct.ShowDialog();
-
-            }
-        }
+       
         private void dgv_product_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
         {
 
@@ -186,6 +161,38 @@ namespace SaleManagementWinform
             this.Hide();
         }
 
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            // Check if the clicked row is valid
+            if (e.RowIndex >= 0)
+            {
+                // Get the selected row
+                DataGridViewRow selectedRow = dataGridView1.Rows[e.RowIndex];
+
+                // Retrieve data from each cell in the selected row
+                var code = selectedRow.Cells["Code"].Value.ToString();
+                var name = selectedRow.Cells["Name"].Value.ToString();
+                var phoneNumber = selectedRow.Cells["phoneNumber"].Value.ToString();
+                var address = selectedRow.Cells["address"].Value.ToString();
+
+               // var email = selectedRow.Cells["email"].Value.ToString();
+
+                // Display data in textboxes or labels, or use it as needed
+                /*  txtID.Text = id.ToString();
+                  txtName.Text = name;
+                  txtAge.Text = age.ToString();*/
+
+                // MessageBox.Show($"Code  : {code}, Name: {name}, Price: {price},  Quantity: {quantity}");
+                // public UpdateCustomer(string code, string name, string phoneNumber, string address, string email)
+
+
+                UpdateCustomer updateCustomer = new UpdateCustomer(code, name,phoneNumber,address);
+                updateCustomer.ShowDialog();
+
+            }
+        }
+
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
@@ -201,6 +208,11 @@ namespace SaleManagementWinform
             AddCustomer form = new AddCustomer ();
 
             form.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.LoadData();
         }
     }
 }
